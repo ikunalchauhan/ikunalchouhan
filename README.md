@@ -1,4 +1,5 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1200/0*BHgg6Pw5JKFuB9t9)
+
+
 
 <h1 align="center">Hi 👋, I'm Kunal Chouhan</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
